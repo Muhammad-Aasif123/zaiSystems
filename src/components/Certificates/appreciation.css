@@ -1,0 +1,50 @@
+.Appreciation{
+    display: flex;
+    justify-content: space-evenly !important;
+    flex-wrap: wrap; 
+    margin-top: 40px;  
+}
+.Cards{
+    margin: 40px;
+    border: none !important;
+    background-color: black !important;
+}
+#card_title{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: -10px;
+}
+#card_des{
+    color: white;
+    font-size: 14px;
+    margin-left: -10px;
+}
+body{
+    background-color: black !important;
+}
+@media screen and (max-width: 1115px) {
+   .Cards {
+      width: 27rem !important;
+    }
+  }
+  @media screen and (max-width: 1042px) {
+    .Cards {
+       width: 25rem !important;
+     }
+   }
+   @media screen and (max-width: 976px) {
+    .Cards {
+       width: 38rem !important;
+     }
+   }
+   @media screen and (max-width: 450px) {
+    #card_title{
+       font-size: 20px !important;
+     }
+   }
+   @media screen and (max-width: 370px) {
+    #card_title{
+       font-size: 17px !important;
+     }
+   }

@@ -1,0 +1,375 @@
+
+[
+    
+    {
+        "id": 1,
+        "portfolioImage": "./images/portfolio/portfolio-01.webp",
+        "image": "images/portfolio/portfolio-01.webp",
+        "title": "App Development",
+        "subtitle": "Native Development For Everyone",
+        "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "development",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>If you need to develop an app for both iOS and Android, React Native is the best tool out there. It can reduce the codebase by about 95%, saving you time and money. On top of that, React Native has a number of open-source libraries of pre-built components which can help you further speed up the development process.</p> <br /> <p>React Native lets you create truly native apps and doesn't compromise your users' experiences. It provides a core set of platform agnostic native components like View, Text, and Image that map directly to the platform’s native UI building blocks.</p> <br /> <p>React components wrap existing native code and interact with native APIs via React’s declarative UI paradigm and JavaScript. This enables native app development for whole new teams of developers, and can let existing native teams work much faster.</p> <br /> <p>See your changes as soon as you save. With the power of JavaScript, React Native lets you iterate at lightning speed. No more waiting for native builds to finish. Save, see, repeat.</p>"],
+        "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+         
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "./images/portfolio/portfolio-01-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 2,
+        "portfolioImage": "./images/portfolio/portfolio-04.webp",
+        "image": "images/portfolio/portfolio-02.webp",
+        "title": "React Js",
+        "subtitle": "Awesome portfolio",
+        "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "react",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>If you are new to web development or a professional developer who's creating websites with plain old javascript or jQuery, this is your time to learn React JS and take your web development skills to the next level and impress your recruiter or clients.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/reactJs.png",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 3,
+        "portfolioImage": "./images/portfolio/portfolio-05.webp",
+        "image": "images/portfolio/portfolio-03.webp",
+        "title": "ASP .Net",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "asp .net",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-05-5.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 4,
+        "portfolioImage": "./images/portfolio/portfolio-02.jpg",
+        "image": "images/portfolio/portfolio-04.webp",
+        "title": "Frontend Developement",
+        "subtitle": "Awesome portfolio",
+        "date": "01 March 2021",
+        "client": "frontend",
+        "category": "frontend",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-02-2.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-04.webp"
+        }
+    },
+
+    {
+        "id": 5,
+        "portfolioImage": "./images/portfolio/portfolio-06.webp",
+        "image": "images/portfolio/portfolio-05.webp",
+        "title": "Python",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "python",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-06-6.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 6,
+        "portfolioImage": "./images/portfolio/portfolio-08.webp",
+        "image": "images/portfolio/portfolio-06.webp",
+        "title": "WordPress",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "wordpress",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-08-8.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-06.webp"
+        }
+    },
+
+    {
+        "id": 7,
+        "portfolioImage": "./images/portfolio/portfolio-03.webp",
+        "image": "images/portfolio/portfolio-07.webp",
+        "title": "Angular",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "angular",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-03.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 8,
+        "portfolioImage": "./images/portfolio/portfolio-09.webp",
+        "image": "images/portfolio/portfolio-08.webp",
+        "title": "Graphic Designing",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "graphic",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-09-9.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+
+    {
+        "id": 9,
+        "portfolioImage": "./images/portfolio/portfolio-07.webp",
+        "image": "images/portfolio/portfolio-09.webp",
+        "title": "JavaScript",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "javascript",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-07.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    },
+    {
+        "id": 10,
+        "portfolioImage": "./images/portfolio/portfolio-07.webp",
+        "image": "images/portfolio/portfolio-09.webp",
+        "title": "Java",
+        "subtitle": "Awesome portfolio",
+       "date": "Zai Systems Certified React Native",
+        "client": "3 Month (16 weeks; with 3 training sessions of 1.5 hours a week)",
+        "category": "java",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"],
+         "bodyOne": ["<p> React Native is an open-source mobile application framework created by Facebook, Inc. It is used to develop applications for Android, Android TV, iOS,macOS, tvOS, Web, Windows and UWP by enabling developers to use React's framework along with native platform capabilities.</p>"],
+        "btn": {
+            "buttontext": "Contact Us",
+            "link": "/contact"
+        },
+        "largeImage": "images/portfolio/portfolio-07-7.webp",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.webp",
+            "imageTwo": "images/portfolio/portfolio-02.webp",
+            "imageThree": "images/portfolio/portfolio-03.webp"
+        }
+    }
+]
+
+

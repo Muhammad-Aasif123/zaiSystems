@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "title": "Create Website By Doob So Quick Download And Make Your Site."
+    },
+
+    {
+        "id": 2,
+        "title": "We Also Provide",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "CRM Systems Provider",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "text": "ERP Systems Provider",
+                "url": "/portfolio"
+            },
+            {
+                "id": 3,
+                "text": "POS Systems Provider",
+                "url": "/contact"
+            },
+            {
+                "id": 4,
+                "text": "E-commerce Solution",
+                "url": "/service"
+            },
+            {
+                "id": 5,
+                "text": "Software Provider",
+                "url": "/service"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Our Services",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Custom Software Development",
+                "url": "/gallery"
+            },
+            {
+                "id": 2,
+                "text": "Mobile App Development",
+                "url": "/about-us"
+            },
+            {
+                "id": 3,
+                "text": "Discovery Workshop",
+                "url": "/testimonial"
+            },
+            {
+                "id": 4,
+                "text": "Web Development",
+                "url": "/timeline"
+            },
+            {
+                "id": 5,
+                "text": "UI/UX Design",
+                "url": "/timeline"
+            }
+            
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Company",
+        "quicklink": [
+            
+            {
+                "id": 1,
+                "text": "About us",
+                "url": "/about"
+            },
+            {
+                "id": 2,
+                "text": "Services",
+                "url": "/service"
+            },
+            {
+                "id": 3,
+                "text": "Courses",
+                "url": "/service"
+            }
+        ]
+    },
+
+    {
+        "id": 5,
+        "title": "Resources",
+        "quicklink": [
+          
+            {
+                "id": 1,
+                "text": "Contact",
+                "url": "/contact"
+            },
+            {
+                "id": 2,
+                "text": "Service",
+                "url": "/service"
+            }
+        ]
+    },
+
+    {
+        "id": 6,
+        "title": "Stay With Us.",
+        "subtitle": "A Software Development Company which focuses on Developing High-end Software Solutions."
+    }
+]
